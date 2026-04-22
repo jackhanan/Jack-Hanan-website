@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 // Mock list of images from the 'other' folder based on previous exploration
 const otherProjectImages = [
   'Final Drawing (1) (1).jpg',
-  'Screenshot 2026-04-21 153501.png',
   'WhatsApp Image 2026-04-21 at 3.27.31 PM.jpeg',
   'WhatsApp Image 2026-04-21 at 3.27.41 PM (1).jpeg',
   'WhatsApp Image 2026-04-21 at 3.27.54 PM.jpeg',
